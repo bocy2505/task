@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.softwaretechnologies.CompanyTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-11-28T06:36:58" hostname="PC102094" time="1.877">
+  <properties/>
+  <testcase name="getMonthSalary()" classname="org.softwaretechnologies.CompanyTest" time="1.867"/>
+  <testcase name="getMonthSalaryLeapYear()" classname="org.softwaretechnologies.CompanyTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
